@@ -1,0 +1,19 @@
+{
+  "name": "donghur",
+  "version": "0.0.1",
+  "description": "Personal Resume Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DongHur/ResumeWebsite.git"
+  },
+  "author": "Dong Hur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DongHur/ResumeWebsite/issues"
+  },
+  "homepage": "https://github.com/DongHur/ResumeWebsite#readme"
+}
